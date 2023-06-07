@@ -8,4 +8,5 @@ module.exports = [
     {name: "Thiolated Gold Nanoparticle", file: "au_thiol.xyz"},
     {name: "Benzene", file: "benzene.xyz"},
     {name: "Methane", file: "methane.xyz"},
+    {name: "Water bro jeje", file: "water.xyz"},
 ];
